@@ -8,7 +8,7 @@
 
 () parentheses
 
-![my mind](112.่jpg)
+![112](112.jpg)
 
 อธิบายการใช้งาน Github and Google Colab ว่าหน้าที่ของแต่ล่ะอันคืออะไร และอธิบายวิธีเซฟไฟล์จาก Google Colab ลง Github
 
